@@ -10,4 +10,3 @@ In this repository, there are two Jupyter notebooks, each of which contains two 
     - Authorize Colab access to your repositories (check 'Include private repos')
     - Use "Save a copy to GitHub"
     
-## Name: Pooja Krishnanath Shanbhag
